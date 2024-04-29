@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702732197 source:f:\c_csgo_code\17-calclationtime\main.c
+	<stdio.h>
+	<stdlib.h>
+
