@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701255090 source:f:\c_csgo_code\01-datatype\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701511817 source:f:\c_csgo_code\01-datatype\linh tinh.c
+	<stdio.h>
+	<stdlib.h>
+

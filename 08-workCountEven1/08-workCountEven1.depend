@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702126320 source:f:\c_csgo_code\08-workcounteven1\main.c
+	<stdio.h>
+	<stdlib.h>
+
