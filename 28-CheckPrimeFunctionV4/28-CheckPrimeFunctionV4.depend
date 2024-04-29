@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703746098 source:f:\c_csgo_code\28-checkprimefunctionv4\main.c
+	<stdio.h>
+	<stdlib.h>
+
