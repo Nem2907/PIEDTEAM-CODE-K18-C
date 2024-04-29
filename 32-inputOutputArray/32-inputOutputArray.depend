@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704877656 source:f:\piedteam_code_c\c_csgo_code\32-inputoutputarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
